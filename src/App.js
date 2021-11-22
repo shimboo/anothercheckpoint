@@ -46,6 +46,9 @@ function App() {
         <Button variant="dark" type="submit">
           Submit
         </Button>
+        <Button variant="dark" type="submit">
+          Submit
+        </Button>
       </Form>
       <footer>
         <div className="footer-copyright text-center py-3">
